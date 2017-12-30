@@ -1,0 +1,25 @@
+{
+  "name": "edx-Module-3-Assignment-Lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "migrate-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmoodels/edx-Module-3-Assignment-Lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahmoodels/edx-Module-3-Assignment-Lab/issues"
+  },
+  "homepage": "https://github.com/mahmoodels/edx-Module-3-Assignment-Lab#readme",
+  "dependencies": {
+    "async": "2.6.0",
+    "lodash": "4.17.4",
+    "mongodb": "3.0.1"
+  }
+}
